@@ -1,0 +1,24 @@
+body{
+  font-family: sans-serif;
+}
+.carousel-inner img{
+  height: 500px;
+  width: 700px;
+}
+
+.row img{
+  height: 200px;
+  width: 300px;
+  padding: 10px 10px;
+}
+button{
+  background: blue
+}
+
+h2{
+  text-align: center;
+}
+
+.title{
+  text-align: center;
+}
